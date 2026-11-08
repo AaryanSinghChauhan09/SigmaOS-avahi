@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_avahi"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS avahi component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_avahi"
+path = "src/lib.rs"
