@@ -3,7 +3,7 @@ name = "SigmaOS-avahi"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "avahi component"
+description = "SigmaOS SigmaOS-avahi component"
 upstream = []
 
 [contract]
